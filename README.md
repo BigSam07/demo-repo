@@ -1,2 +1,2 @@
 # Demo
-Some plain stext
+Some plain text.
